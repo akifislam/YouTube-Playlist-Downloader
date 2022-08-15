@@ -1,7 +1,7 @@
 # Automated Bot Image Uploader
 
 <div align="center">
-  <img height='320' width='480' alt="data-extractor" src="Samples_Selenium.png"> 
+  <img height='200' width='480' alt="data-extractor" src="Samples_Selenium.png"> 
 </div>
 
 This repository contains an image uploader BOT to upload bulk images to a website.
