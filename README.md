@@ -1,8 +1,9 @@
-# YouTube Playlist to Mp3 Downloader
+# YouTube Video / Playlist to Mp4 Downloader
+(This project is under construction, trying to escape the limit of <720p)
 
 
 
-I have a playlist on [YouTube](https://www.youtube.com/playlist?list=PLB-0AGqg4hO99EoYUGyaR4H-1zBqN5wvi) named [Trademil Chart](https://www.youtube.com/playlist?list=PLB-0AGqg4hO99EoYUGyaR4H-1zBqN5wvi) where I used to collect latest songs from YouTube. I use this playlist mostly during exercise. As there was 100+ songs I just needed the mp3 version of those songs, I could not get any free solution that will take a playlist as input and generate all the mp3 of that list.
+I have a playlist on [YouTube](https://www.youtube.com/playlist?list=PLB-0AGqg4hO99EoYUGyaR4H-1zBqN5wvi) named [Trademil Chart](https://www.youtube.com/playlist?list=PLB-0AGqg4hO99EoYUGyaR4H-1zBqN5wvi) where I used to collect latest songs from YouTube. I use this playlist mostly during exercise. As there was 100+ songs I just needed the mp4 version of those songs, I could not get any free solution that will take a playlist as input and generate all the mp4 of that list.
 </br>This is why, I created this project
 ## Installation
 
@@ -21,7 +22,7 @@ Then open the yt_to_mp3_downloader.py script and edit according to your need
 ```
 
 # Benefits
-- Download a whole playlist of songs into mp3 in just one click
+- Download a whole playlist of songs into mp4 in just one click
 
 
 
